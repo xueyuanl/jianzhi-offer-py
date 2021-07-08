@@ -2,7 +2,9 @@
 * [07\. 重建二叉树](problems/07_build_tree.py)  `pre-order and in-order`
 
 # Backtracking
-* [12\. 矩阵中的路径](problems/12_exist.py)  `recursion`
+* [12\. 矩阵中的路径](problems/12_exist.py)  `depth first search`
+* [13\. 机器人的运动范围](problems/13_moving_count.py)  `depth first search`
+
 
 # Binary Search
 * [11\. 旋转数组的最小数字](problems/11_min_array.py)
@@ -19,6 +21,9 @@
 
 # Stack
 * [09\. 用两个栈实现队列](problems/09_two_stack_to_queue.py)
+
+# Bit Manipulation
+* [15\. 二进制中1的个数](problems/15_hamming_weight.py)
 
 # Others
 * [03\. 数组中重复的数字](problems/03_find_repeat_number.py)
