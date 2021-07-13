@@ -15,6 +15,7 @@
 
 # Linked List
 * [06\. 从尾到头打印链表](problems/06_reverse_print.py) `recursion`, `revert array`
+* [18\. 删除链表的节点](problems/18_delete_node.py)  `two pointer`
 
 # String
 * [05\. 替换空格](problems/05_replace_space.py)
