@@ -23,6 +23,9 @@
 # Stack
 * [09\. 用两个栈实现队列](problems/09_two_stack_to_queue.py)
 
+# State Machine
+* [20\. 表示数值的字符串](problems/20_is_number.py)
+
 # Bit Manipulation
 * [15\. 二进制中1的个数](problems/15_hamming_weight.py)
 
