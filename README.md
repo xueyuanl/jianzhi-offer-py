@@ -1,4 +1,7 @@
-### Binary tree
+# Array
+*[21\. 调整数组顺序使奇数位于偶数前面](problems/21_exchange.py)  `two points, head and tail`
+
+# Binary tree
 * [07\. 重建二叉树](problems/07_build_tree.py)  `pre-order and in-order`
 
 # Backtracking
