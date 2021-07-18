@@ -2,7 +2,11 @@
 *[21\. 调整数组顺序使奇数位于偶数前面](problems/21_exchange.py)  `two points, head and tail`
 
 # Binary tree
+References:
+https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/yi-pian-wen-zhang-dai-ni-chi-tou-dui-che-uhgs/
+
 * [07\. 重建二叉树](problems/07_build_tree.py)  `pre-order and in-order`
+* [26\. 树的子结构](problems/26_is_sub_structure.py)
 
 # Backtracking
 * [12\. 矩阵中的路径](problems/12_exist.py)  `depth first search`
