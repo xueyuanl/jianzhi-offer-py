@@ -7,6 +7,7 @@ https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/yi-pian-wen-zha
 
 * [07\. 重建二叉树](problems/07_build_tree.py)  `pre-order and in-order`
 * [26\. 树的子结构](problems/26_is_sub_structure.py)
+* [27\. 二叉树的镜像](problems/27_mirror_tree.py)
 
 # Backtracking
 * [12\. 矩阵中的路径](problems/12_exist.py)  `depth first search`
