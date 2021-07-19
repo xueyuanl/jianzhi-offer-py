@@ -35,6 +35,7 @@ https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/solution/yi-pian-wen-zha
 
 # Stack
 * [09\. 用两个栈实现队列](problems/09_two_stack_to_queue.py)
+* [30\. 包含min函数的栈](problems/30_min_stack.py)  `review`
 
 # State Machine
 * [20\. 表示数值的字符串](problems/20_is_number.py)
