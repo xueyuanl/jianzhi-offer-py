@@ -1,5 +1,6 @@
 # Array
-*[21\. 调整数组顺序使奇数位于偶数前面](problems/21_exchange.py)  `two points, head and tail`
+* [21\. 调整数组顺序使奇数位于偶数前面](problems/21_exchange.py)  `two points, head and tail`
+* [29\. 顺时针打印矩阵](problems/29_spiral_order.py) `simulation`
 
 # Binary tree
 References:
